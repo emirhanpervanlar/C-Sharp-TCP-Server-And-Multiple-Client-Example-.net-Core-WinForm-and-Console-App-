@@ -1,0 +1,13 @@
+C:\Users\EmirhanPervanlar\source\repos\tcpservertest\tcpservertest\bin\Debug\netcoreapp3.1\tcpservertest.exe
+C:\Users\EmirhanPervanlar\source\repos\tcpservertest\tcpservertest\bin\Debug\netcoreapp3.1\tcpservertest.deps.json
+C:\Users\EmirhanPervanlar\source\repos\tcpservertest\tcpservertest\bin\Debug\netcoreapp3.1\tcpservertest.runtimeconfig.json
+C:\Users\EmirhanPervanlar\source\repos\tcpservertest\tcpservertest\bin\Debug\netcoreapp3.1\tcpservertest.runtimeconfig.dev.json
+C:\Users\EmirhanPervanlar\source\repos\tcpservertest\tcpservertest\bin\Debug\netcoreapp3.1\tcpservertest.dll
+C:\Users\EmirhanPervanlar\source\repos\tcpservertest\tcpservertest\bin\Debug\netcoreapp3.1\tcpservertest.pdb
+C:\Users\EmirhanPervanlar\source\repos\tcpservertest\tcpservertest\obj\Debug\netcoreapp3.1\tcpservertest.csprojAssemblyReference.cache
+C:\Users\EmirhanPervanlar\source\repos\tcpservertest\tcpservertest\obj\Debug\netcoreapp3.1\tcpservertest.csproj.CoreCompileInputs.cache
+C:\Users\EmirhanPervanlar\source\repos\tcpservertest\tcpservertest\obj\Debug\netcoreapp3.1\tcpservertest.AssemblyInfoInputs.cache
+C:\Users\EmirhanPervanlar\source\repos\tcpservertest\tcpservertest\obj\Debug\netcoreapp3.1\tcpservertest.AssemblyInfo.cs
+C:\Users\EmirhanPervanlar\source\repos\tcpservertest\tcpservertest\obj\Debug\netcoreapp3.1\tcpservertest.dll
+C:\Users\EmirhanPervanlar\source\repos\tcpservertest\tcpservertest\obj\Debug\netcoreapp3.1\tcpservertest.pdb
+C:\Users\EmirhanPervanlar\source\repos\tcpservertest\tcpservertest\obj\Debug\netcoreapp3.1\tcpservertest.genruntimeconfig.cache
